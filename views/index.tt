@@ -41,7 +41,7 @@
             <h3>Your application's environment</h3>
 
             <ul>
-                <li>Location: <code>/Users/appfog/code/dancer-demo/CFDemo-App</code></li>
+                <li>Location: <code>/path/to/app</code></li>
                 <li>Template engine: <code><% settings.template %></code></li>
                 <li>Logger: <code><% settings.logger %></code></li>
                 <li>Environment: <code><% settings.environment %></code></li>
@@ -81,7 +81,7 @@
                 </tr>
                 <tr>
                     <td>Appdir</td>
-                    <td><tt>/Users/appfog/code/dancer-demo/CFDemo-App</tt></td>
+                    <td><tt>/path/to/app</tt></td>
                 </tr>
                 <tr>
                     <td>Template engine</td>
